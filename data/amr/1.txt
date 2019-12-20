@@ -1,0 +1,10 @@
+# ::id afp_eng_20100414_0615.1 ::date 2015-11-04T01:33:23 ::annotator UCO-AMR-08 ::preferred
+# ::snt French far-left killer leaves jail
+# ::save-date Thu Nov 5, 2015 ::file afp_eng_20100414_0615_1.txt
+(l2 / leave-11
+      :ARG0 (p2 / person
+            :ARG0-of (k2 / kill-01)
+            :mod (c / country :wiki "France" :name (n2 / name :op1 "France"))
+            :mod (l / left
+                  :degree (f / far)))
+      :ARG1 (j / jail))
